@@ -32,21 +32,23 @@ A modern, high-performance, dark-themed animated developer portfolio website bui
      - Flagship EdTech mobile platform serving **5,000+ students** with GetX, MVC, Firestore, and FCM push alerts.
      - Official app icon (`images/sourcecode_academia.jpg`) & live UI screenshot (`images/shot_sourcecode.jpg`).
      - [Google Play Store Link](https://play.google.com/store/apps/details?id=com.sourcecode.academia&hl=en)
+  6. **PawPas Care** (*Mobile Healthcare Ecosystem*)
+     - Comprehensive pet health ecosystem bridging pet parents, veterinary clinics, pharmacies, and diagnostic labs.
+     - Branded app icon (`images/pawpas_care.jpg`) & live UI screenshot (`images/shot_pawpas.jpg`).
+     - [GitHub Repository Link](https://github.com/PawPasCare/pawpas_care_app)
 - **Direct Communication & Social Links**:
-  - **Direct Email Delivery**: Contact form submissions are routed directly to **`workbyasif@gmail.com`** via FormSubmit AJAX with client email, inquiry type, and message.
-  - **GitHub**: [github.com/m-asif-96](https://github.com/m-asif-96) (Featured in Navbar, Contact Card, and Footer).
-  - **LinkedIn**: [linkedin.com/in/muhammadasifdev](https://www.linkedin.com/in/muhammadasifdev/) (Featured in Navbar, Contact Card, and Footer).
+  - **Direct Email Delivery**: Contact form submissions are routed directly to **`workbyasif@gmail.com`** via FormSubmit AJAX.
+  - **GitHub**: [github.com/m-asif-96](https://github.com/m-asif-96)
+  - **LinkedIn**: [linkedin.com/in/muhammadasifdev](https://www.linkedin.com/in/muhammadasifdev/)
 - **Distinct Experience Timeline**:
   1. **Source Code Academia** (Jul 2026 — Present) — MVC, GetX, 5K+ downloads, FCM push alerts.
   2. **DevEntia Tech** (Apr 2025 — Jun 2026) — Clean Architecture, MVVM, 99.4% crash-free, Stripe, Hive DB, GitHub Actions.
   3. **WeatherWalay — Executive Flutter Developer** (Jun 2024 — Feb 2025) — 100K+ downloads (4.5★), 12+ store releases, Jira & Bitbucket.
   4. **WeatherWalay — Flutter Developer Intern** (Jan 2024 — May 2024) — 15K+ legacy Dart lines refactored to Flutter 3.x, 22% smaller APK (~14 MB saved).
-- **Cyber-Glass Dark Aesthetic**: Deep navy and dark glassmorphic panels with radial ambient glows, glowing orbs, and mesh grid overlay.
-- **Interactive Visual Card**: Rotating orbital rings with glowing satellite orbs, tilted avatar card with `asif.jpg`, and floating animated tech chips.
 
 ---
 
 ## 🚀 How to Run & View
 
-1. Navigate to `d:\asif_portfolio\`
-2. Double-click [index.html](file:///d:/asif_portfolio/index.html) or right-click and open with your preferred browser (Chrome, Edge, Firefox).
+1. Live on GitHub Pages: [https://m-asif-96.github.io/portfolio-/](https://m-asif-96.github.io/portfolio-/)
+2. Local preview: Open [index.html](file:///d:/asif_portfolio/index.html) in your browser.
